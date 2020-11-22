@@ -1,0 +1,5 @@
+<?php
+
+/**
+ *	ProductCategory Helper  
+ */
